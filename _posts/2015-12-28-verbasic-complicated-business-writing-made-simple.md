@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-28T17:28:53.874Z'
-dateModified: '2015-12-28T17:28:08.556Z'
+datePublished: '2015-12-28T17:46:47.513Z'
+dateModified: '2015-12-28T17:46:21.396Z'
 title: 'Verbasic: complicated business writing made simple.'
 author: []
 authors: []
