@@ -1,7 +1,7 @@
 name: Verbasic
 favicon: null
-layout_spectrum: 0.8262566355988383
-typography_spectrum: 0.052402082132175565
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.7114872015081346
+  brandStrength: 0.1875
   lightness: 0.01320115220732987
-  saturation: 0.3810219024308026
+  saturation: 0.0625
   rhythmicContrast: 0.2352845270652324
 purpose: []
