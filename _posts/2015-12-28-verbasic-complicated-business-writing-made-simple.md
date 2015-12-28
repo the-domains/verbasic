@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-28T17:46:47.513Z'
-dateModified: '2015-12-28T17:46:21.396Z'
+datePublished: '2015-12-28T17:48:46.531Z'
+dateModified: '2015-12-28T17:46:47.513Z'
 title: 'Verbasic: complicated business writing made simple.'
 author: []
 authors: []
