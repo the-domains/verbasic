@@ -2,7 +2,7 @@ name: Verbasic
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 1
-title: 'Welcome to Verbasic!'
+title: "Your business' culture deserves better than homogenized content."
 collections:
   - index:
       path: /
