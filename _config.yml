@@ -1,5 +1,8 @@
+name: Verbasic
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 1
 title: 'Welcome to Verbasic!'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.1875
-  lightness: 0.7846402
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+  brandStrength: 0.1875
+  lightness: 0.7846402
+  saturation: 1
   rhythmicContrast: 0.2352845
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Verbasic
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 1
-layout_spectrum: 1
+purpose: []
