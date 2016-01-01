@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'We take your boring, homogenized business writing and make it concise, simple, and easier to digest for your audience. '
-datePublished: '2016-01-01T16:52:39.109Z'
-dateModified: '2016-01-01T16:52:21.123Z'
-title: Welcome to Verbasic
+datePublished: '2016-01-01T16:59:15.953Z'
+dateModified: '2016-01-01T16:56:43.140Z'
+title: "Ever wondered what it would be like if your company's culture was consistent throughout all of your business writing?\_"
 author: []
 sourcePath: _posts/2015-12-28-verbasic-complicated-business-writing-made-simple.md
 published: true
@@ -22,10 +22,15 @@ url: verbasic-complicated-business-writing-made-simple/index.html
 _type: Article
 
 ---
-# Welcome to Verbasic
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8baaf6d9-6c9e-4549-8f31-c9ad3f4883f6.jpg)
 
-Kurt Swiger
+# 
+
+# Ever wondered what it would be like if your company's culture was consistent throughout all of your business writing? 
+
+[Kurt Swiger][0]
 
 972-743-8089
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8baaf6d9-6c9e-4549-8f31-c9ad3f4883f6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60fa761d-1784-4079-a34a-75a0a7fadfe8.jpg)
+
+[0]: https://www.linkedin.com/in/kurt-swiger-0748003
